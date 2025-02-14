@@ -1,127 +1,150 @@
-# 10th-template
+# 그림으로 말해요, 머신러닝!
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> Show and Tell: Machine Learning! </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/show-and-tell-ml" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/show-and-tell-ml" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/show-and-tell-ml" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/show-and-tell-ml" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/show-and-tell-ml?color=2b9348"></a>
 </div>
 <br>
 
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to the "Show and Tell: Machine Learning!" repository!
+Our goal is to deepen our understanding of machine learning by leveraging visualization, showcasing examples of data analysis, model interpretation, and effective communication of insights.
+Join us in advancing machine learning visualization through open collaboration and shared learning!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
+_"시각화를 통해 한층 더 깊어지는 머신 러닝에 대한 지식"_
 
+우리의 모델은 무엇을 근거로, 왜 이런 판단을 내렸을까요?
+우리는 데이터와 모델에 대해 얼마나 잘 이해하고 있나요?
+우리가 이해한 내용을 누군가에게 쉽고 명확하게 설명할 수 있나요?
 
-## 🧑 역동적인 팀 소개 (Dynamic Team)
+지식을 표현하고, 설명할 수 있을 때, 우리는 비로소 무언가를 이해했다고 말할 수 있습니다.
+우리의 이해를 표현할 수 있는 매력적인 방법 중 하나로 시각화를 주목해보고자 합니다.
 
-| 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+----
+
+<img src="./imgs/t-sne.gif" width="256">
+
+t-SNE 과정 시각화 [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
+----
+
+<img src="./imgs/rl_vision.gif" width="512">
+
+강화 학습 모델의 Attention 시각화 [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/)
+
+----
+
+<img src="./imgs/wxc.gif" width="512">
+
+기상 예측 모델 예측 결과 시각화 [Prithvi WxC]()
+
+----
+
+<img src="./imgs/p2p.png" width="512">
+
+이미지 생성 모델의 Cross-attention 시각화 [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io/)
+
+----
+
+이처럼 지식을 이미지로 표현하고자하는 열망은 분야를 가리지 않고 보편적입니다. 
+
+우리는 이번 스터디를 통해 시각화 영역에 첫발을 내디디고자 합니다.
+
+분야와 영역을 가리지 않고, 머신 러닝의 시각화에 대한 관심이 있는 분들을 찾습니다.
+
+- 머신 러닝에서 활용하는 다양한 시각화 방법론에 대해서 공부합니다.
+- 시각화를 위한 Python 패키지를 공부합니다.
+- 연구자들이 어떤 시각화 방법을 활용했는지 함께 공부하고 공유합니다.
+- 각자 관심 있는 데이터/모델을 시각화합니다. 
+
+## 🧑 팀 소개 (Team)
+
+| 역할          | 이름 |          주요 관심 분야                    |
+|--------------|-----|----------------------------------------|
+| **Project Manager** | 송주환 | T2I Diffusion 모델 Attention Map 시각화 |
+| **Member** | - | - |
+| **Member** | - | - |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
+
+| 파트 | 내용 |
+| -- | -------- | 
+| 1부 | 재밌고 다양한 시각화 방법론 스터디                  | 
+| 2부 | 실제 데이터, 모델 시각화를 위한 구체적인 사례 스터디    | 
+| 3부 | 나만의 데이터, 모델 시각화                       |
 
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture)
 **우리의 개발 문화**  
-```python
-class CollaborationFramework:
-    def __init__(self):
-        self.tools = {
-            'communication': 'Discord',
-            'version_control': 'GitHub Projects',
-            'ci/cd': 'GitHub Actions',
-            'docs': 'Github Wiki'
-        }
-    
-    def workflow(self):
-        return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
-```
+
+- 각자 작성한 코드와 결과물을 깃헙 저장소로 공유하고 의견을 나눕니다.
+- 화요일 저녁에 모여 온라인 스터디를 진행합니다.
 
 
 ## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
+
 | 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
+|-------------------------|--------|-------------|
+| 시각화 결과물              | 18개   |              |
+| 인터렉티브 데모 제작         | 2개    |              |
 
 
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
-
+| ---------- | -------- | ---- |
+| 2025/02/25 | OT       |      
+| 2025/03/04 |  1부 | 미정 | 
+| 2025/03/11 |  1부 | 미정 | 
+| 2025/03/18 |  1부 | 미정 | 
+| 2025/03/25 |  1부 | 미정 | 
+| 2025/04/01 |  2부 | 미정 | 
+| 2025/04/08 |  2부 | 미정 | 
+| 2025/04/15 |  2부 | 미정 | 
+| 2025/04/22 |  2부 | 미정 | 
+| 2025/04/29 |  3부 | 미정 | 
+| 2025/05/06 |  공휴일    | - | 
+| 2025/05/13 |  3부 | 미정 | 
+| 2025/05/20 |  3부 | 미정 | 
+| 2025/05/17 |  3부 | 미정 | 
 
 
 ## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
 
+- Python 시각화 예제: [Vega-Altair](https://altair-viz.github.io/gallery/index.html),  [matplotlib](https://matplotlib.org/stable/gallery/index.html), [scikit-learn](https://scikit-learn.org/stable/auto_examples/index.html), [plotly](https://plotly.com/python/)
+- 기계 학습 시각화 그룹: [Polo Club](https://poloclub.github.io/), [Distill](https://distill.pub/)
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 - 링크 (준비중)
 
-**누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
-2. Magical Week 중 행사에 참가
-3. Pseudo Lab 행사에서 만나기
+**누구나 모임을 청강 하실 수 있습니다.**  
+- 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 채널로 입장
 
 ## Acknowledgement 🙏
 
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+"Show and Tell: Machine Learning!" is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+<a href="https://github.com/Pseudo-Lab/show-and-tell-ml/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/show-and-tell-ml" />
 </a>
 <br><br>
 
 <h2>License 🗞</h2>
-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
