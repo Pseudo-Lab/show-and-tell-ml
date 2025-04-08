@@ -1,0 +1,9 @@
+gradio
+openai
+bertopic
+scikit-learn
+pandas
+numpy
+sentence-transformers
+umap-learn
+hdbscan
