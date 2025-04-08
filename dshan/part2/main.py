@@ -171,3 +171,10 @@ with gr.Blocks() as demo:
     
 
 demo.launch()
+
+"""
+개선점)
+adapter처럼 foundation model을 복잡한 설정이나 모델 구조에 대한 깊은 이해 없이도 손쉽게 선택할 수 있게 함
+workflow에 전문가의 평가를 반영
+
+"""
